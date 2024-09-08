@@ -1,4 +1,4 @@
-#!/Users/jonathanpark/Documents/hello-world/env/bin/python3.12
+#!/Users/jonathanpark/Documents/hello-world/my_project/env/bin/python3.12
 # -*- coding: utf-8 -*-
 import re
 import sys
